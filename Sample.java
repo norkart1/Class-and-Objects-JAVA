@@ -3,7 +3,7 @@ public class Sample {
  int b;
 
  void display() {
-  System.out.println("a = " + a  "  b = " + b);
+  System.out.println("a = " + a + "  b = " + b);
 
  }
 }
